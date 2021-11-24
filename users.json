@@ -1,0 +1,43 @@
+{
+  "admins": [
+    367622073,
+    928650171
+  ],
+  "members": [
+    367622073,
+    928650171,
+    410916262,
+    423349039,
+    412692403,
+    783712695,
+    1374503719,
+    532684618,
+    366408488,
+    417024817,
+    1937648836
+  ],
+  "member_bans": {
+    "@Razorlance": 0,
+    "@Genfom": 0,
+    "@l_AnnaPronina_l": 0,
+    "@mayyasp": 0,
+    "@timur_mur_mur_mur": 0,
+    "@alina_dekk": 0,
+    "@artem_ilinn": 0,
+    "@r_gor": 0,
+    "@keithviolet": 0,
+    "@rinpmchs": 0
+  },
+  "member_names": {
+    "@Razorlance": "\u0414\u0435\u043d\u0438\u0441 \u041a\u0443\u043b\u0430\u043a\u043e\u0432",
+    "@Genfom": "Gena Fomin",
+    "@l_AnnaPronina_l": "Anna Pronina",
+    "@timur_mur_mur_mur": "Tim",
+    "@alina_dekk": "Alina Dekkusheva",
+    "@mayyasp": "Mayya Spirina",
+    "@artem_ilinn": "Artёm Ilin",
+    "@r_gor": "\u0420\u043e\u043c\u0430\u043d\u0020\u0413\u043e\u0440\u0435\u043b\u044c\u0441\u043a\u0438\u0439",
+    "@keithviolet": "Roman Kholinov",
+    "@rinpmchs": "arina arina"
+  }
+}
